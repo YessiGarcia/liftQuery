@@ -1,14 +1,14 @@
 #splash img{
-	height: 100%;
-	width: 100%;
+	height: 100vh;
 }
 
 #home{
-	height: 1650pX;
+	height: 100vh;
 	background-image: url("../img/cam.gif");
 	background-repeat: no-repeat;
 	background-size: cover;
 	display: none;
+	top: 500px;
 }
 
 #home button{
