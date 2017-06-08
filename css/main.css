@@ -12,10 +12,22 @@
 	top: 500px;
 }
 
-#home button{
-	height: 100px;
-	width: 33%;
-	margin:7%;
-	font-size: 70px;
+#home a{
+	position:absolute;
+	bottom: 500px;
+	font-size: 80px;
+	width: 40%;
+	padding: 70px 0 100px 0;
 }
 
+#home img{
+	width: 70%;
+}
+
+.login{
+	left: 520px;
+}
+
+.singup{
+	left: 70px;
+}
